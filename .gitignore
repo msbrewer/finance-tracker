@@ -1,0 +1,6 @@
+*.csv
+*.db
+__pycahce__/
+.env
+config.py
+*.cfg
